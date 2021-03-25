@@ -10,7 +10,7 @@
 ### 📒 &nbsp;Contato
 ```js
 const Contacts = { 
- 📒Email: "aguiaroficial@pm.me",
+ 📒Email: "aguiaroficial@pm.me"
 }
 ```
 ### 🛠 &nbsp;Tecnologias
