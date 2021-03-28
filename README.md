@@ -36,4 +36,4 @@ const Contacts = {
 <p align="center">
 <a href="https://discord.gg/WuX2j9UyZR"><img src="https://img.shields.io/discord/821551687139196938"/></a>
 <a href="mailto:aguiaroficial@pm.me"><img src="https://img.shields.io/badge/-aguiaroficial@pm.me-0d0d0d?style=flat&logo=Protonmail&logoColor=purple"/></a>
-</p>
+</p>a
