@@ -1,6 +1,6 @@
 <img src="https://media.discordapp.net/attachments/780751811714875452/821558450559385660/maxresdefault.jpg?width=755&height=425" />
 
-<img alt="Night Coding" src="https://media.discordapp.net/attachments/780751811714875452/821560257276542996/Hand_Wave.gif" width='40' align="left"/><h2>Olá, eu sou o Aguiar.</h2>
+<img alt="Original Picture" src="https://media.discordapp.net/attachments/780751811714875452/821560257276542996/Hand_Wave.gif" width='40' align="left"/><h2>Olá, eu sou o Aguiar.</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
