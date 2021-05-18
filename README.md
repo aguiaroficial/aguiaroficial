@@ -2,18 +2,18 @@
 
 <img alt="Original Picture" src="https://media.discordapp.net/attachments/780751811714875452/821560257276542996/Hand_Wave.gif" width='40' align="left"/><h2>Olá, eu sou o Aguiar.</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre mim
+### 👨🏻‍💻 Sobre mim
 
 💡 &nbsp;Adoro explorar qualquer tipo de tecnologia.\
 💡 &nbsp;Estudante de tecnologias relacionadas a Front-End.\
 
-### 📒 &nbsp;Contato
+### 📒 Contato
 ```js
 const Contacts = { 
  📒Email: "aguiaroficial@pm.me"
 }
 ```
-### 🛠 &nbsp;Tecnologias
+### 🛠 Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,7 +22,7 @@ const Contacts = {
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 
-### ⚙️ &nbsp;Gráfico do GitHub
+### ⚙️ Gráfico do GitHub
 
 <p align="center">
 <a href="https://github.com/aguiaroficial">
@@ -31,7 +31,7 @@ const Contacts = {
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Contato
+### 🤝🏻 Contato
 
 <p align="center">
 <a href="https://discord.gg/WuX2j9UyZR"><img src="https://img.shields.io/discord/821551687139196938"/></a>
