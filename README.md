@@ -26,8 +26,8 @@ const Contacts = {
 
 <p align="center">
 <a href="https://github.com/aguiaroficial">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguiaroficial&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiaroficial&langs_count=5&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguiar-security&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiar-security&langs_count=5&theme=midnight-purple"/>
   </a>
 </p>
 
