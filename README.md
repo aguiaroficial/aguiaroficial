@@ -41,7 +41,9 @@
 ```js
 const SocialMedias = () => {
   Twitter:  "@aguiar_security",
-  Instagram: "@aguiar.security",
+  Instagram: "@aguiar.security"
+
+  return true;
 }
 ```
 
