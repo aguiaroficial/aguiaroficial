@@ -39,7 +39,7 @@
 > How can you contact me.
 
 ```js
-const SocialMedias = ([aguiar.security]) => {
+const SocialMedias = () => {
   Twitter:  "@aguiar_security",
   Instagram: "@aguiar.security",
 }
