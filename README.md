@@ -15,7 +15,7 @@
     - Development of **complete systems** using:
       - ✔ Best practices for clean code;
       - ✔ Best practices for secure development;
-      - ✔ The best and fastest technologies present in the market.`
+      - ✔ The best and fastest technologies present in the market.
 
   - You can see some of my projects <a href="https://github.com/aguiar-security?tab=repositories">here</a>.
       
