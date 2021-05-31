@@ -1,7 +1,7 @@
-<h1>Aguiar Security
+<h1>André Aguiar
 <img alt="Original Picture" src="https://media.discordapp.net/attachments/780751811714875452/821560257276542996/Hand_Wave.gif" width='40' align="left"/></h1>
 
-### 👨🏻‍💻 Who is "Aguiar"?
+### 👨🏻‍💻 Who is "André Aguiar"?
 > A simple description of who I am.
 
 - 🔐 **Information security researcher with more than 3 years.**
@@ -50,6 +50,6 @@ const SocialMedias = () => {
 <a href="mailto:aguiar.security@pm.me">
   <img src="https://img.shields.io/badge/-aguiaroficial@pm.me-000?style=flat&logo=protonmail&logoColor=">
 </a>
-<a href="https://github.com/aguiar-security">
+<a href="https://linkedin.com/in/-andre-aguiar/">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=7087fa">
 </a>
