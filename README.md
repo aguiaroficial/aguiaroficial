@@ -36,7 +36,7 @@
 
 
 ### 📒 Contact
-> How can you contact me.
+> How you can contact me.
 
 ```js
 const SocialMedias = () => {
