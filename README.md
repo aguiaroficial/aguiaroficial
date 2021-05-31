@@ -48,7 +48,7 @@ const SocialMedias = () => {
 ```
 
 <a href="mailto:aguiar.security@pm.me">
-  <img src="https://img.shields.io/badge/-aguiaroficial@pm.me-000?style=flat&logo=protonmail&logoColor=">
+  <img src="https://img.shields.io/badge/-aguiar.security@pm.me-000?style=flat&logo=protonmail&logoColor=">
 </a>
 <a href="https://linkedin.com/in/-andre-aguiar/">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=7087fa">
